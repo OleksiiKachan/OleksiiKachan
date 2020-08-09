@@ -1,6 +1,6 @@
 ### Hi there, I'm [Oleksii][website] 👋
 
-- 🔭 I’m currently working on a [Nobul][https://nonbul.com] - the future of th real estate!
+- 🔭 I’m currently working on a [Nobul][nobul] - the future of th real estate!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
@@ -28,8 +28,9 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="oleksii's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OleksiiKachan&show_icons=true&hide_border=true" />
 
 [website]: https://oleksiikachan.com
 [instagram]: https://instagram.com/oleksii.kachan
 [linkedin]: https://linkedin.com/in/oleksiikachan
+[nobul]: https://nobul.com
