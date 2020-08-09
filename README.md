@@ -11,6 +11,7 @@
 [<img align="left" alt="Oleksii Kachan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -27,8 +28,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
-<img align="left" alt="oleksii's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OleksiiKachan&show_icons=true&hide_border=true" />
+<img align="left" alt="oleksii's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OleksiiKachan&show_icons=true&count_private=true&hide_border=true" />
 
 [website]: https://oleksiikachan.com
 [instagram]: https://instagram.com/oleksii.kachan
