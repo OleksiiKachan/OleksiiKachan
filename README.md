@@ -32,6 +32,8 @@
 
 <img align="left" alt="oleksii's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OleksiiKachan&show_icons=true&count_private=true&hide_border=true" />
 
+<img align="left" alt="oleksii's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiKachan&layout=compact" />
+
 [website]: https://oleksiikachan.com
 [instagram]: https://instagram.com/oleksii.kachan
 [linkedin]: https://linkedin.com/in/oleksiikachan
