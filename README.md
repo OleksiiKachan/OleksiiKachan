@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="oleksiikachan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Oleksii Kachan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Oleksii Kachan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="oleksiikachan.com" height="25px" src="https://img.shields.io/website?color=%23424242&down_color=white&down_message=oleksiikachan.com&label=%20&style=for-the-badge&up_color=white&up_message=oleksiikachan.com&url=https%3A%2F%2Foleksiikachan.com" />][website]
+[<img align="left" alt="Oleksii Kachan | LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitesvg" />][linkedin]
+[<img align="left" alt="Oleksii Kachan | Instagram" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 <br />
