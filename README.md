@@ -1,6 +1,6 @@
 ### Hi there, I'm [Oleksii][website] 👋
 
-- 🔭 I’m currently working on a [Nobul][nobul] - the future of the real estate!
+- 🔭 I’m currently working [@Nobul][nobul] - the future of the real estate!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
