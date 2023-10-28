@@ -65,4 +65,3 @@
 [website]: https://oleksiikachan.com
 [instagram]: https://instagram.com/oleksii.kachan
 [linkedin]: https://linkedin.com/in/oleksiikachan
-[nobul]: https://nobul.com
