@@ -59,6 +59,8 @@
 <br />
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=OleksiiKachan&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p>
 <img alt="oleksii's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiKachan&layout=compact&langs_count=8&hide=c#" />
 </p>
